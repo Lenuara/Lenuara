@@ -1,4 +1,4 @@
-## Hi, I'm Elena! 👋
+## Hi, I'm Elena! :sunny:
 ### QA Engeneer from Russia 🏠
 ### I’m currently learning Software Testing course by Vadim Ksendzov 🌱
 ### In these repositories, I save the results of my work ⚡ 
