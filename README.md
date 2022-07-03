@@ -1,6 +1,6 @@
 ## Hi, I'm Elena! :sunny:
 ### QA Engineer from Russia 🏠 :ru:
-### I’m currently learning Software Testing course by Vadim Ksendzov 🌱
+### I’m currently learning Python + Selenium 🌱
 ### In these repositories, I save the results of my work ⚡ 
 
 
