@@ -1,6 +1,6 @@
 ## Hi, I'm Elena! :sunny:
 ### QA Engineer from Russia 🏠 :ru:
-### I’m currently learning Python + Selenium 🌱
+### I’m currently learning Python + Java + Selenium 🌱
 ### In these repositories, I save the results of my work ⚡ 
 
 
